@@ -307,7 +307,7 @@ Blonde
     1
     //Be Yourself
     0,75
-    0,75
+    1
     1
     0,5
     1
@@ -315,13 +315,13 @@ Blonde
     1
     //Facebook Story
     0,5
+    1
+    1
     0,5
-    0,75
-    0,25
-    0,25
-    10.5/15
+    0,5
+    12/15
 }
-7.00 / 10
+8.00 / 10
 
 Man on the moon the end of day {
     0,75
@@ -3041,16 +3041,16 @@ Elliott smith
 6.88 / 10
 
 Camel {
-    0,75
     1
     1
-    0,5
     1
     0,5
+    1
+    0,5
     0,75
     1
-    6.5/8
-} 8.13 / 10
+    6.75/8
+} 8.44 / 10
 
 Violent femmes
 {
@@ -3969,13 +3969,13 @@ Fun trick noisemaker {
 
 Theres a vomitsprinkler in my liverriver {
     1
+    1
+    1
+    1
+    1
     0,75
-    1
-    1
-    0,5
-    0,25
-    4.5/6
-} 7.50 / 10
+    5.75/6
+} 9.58 / 10
 
 The lonesome crowded west {
     1
@@ -3995,3 +3995,4 @@ The lonesome crowded west {
     0,75
     11.75/15
 } 7.83
+
